@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+coverage/
+.sites-runtime/
+# 원문 PDF는 로컬 참고 자료로 유지
+*.pdf

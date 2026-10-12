@@ -1,0 +1,14 @@
+# IDE settings
+.idea/
+*.iml
+.vscode/
+
+# Local files and dependencies
+.DS_Store
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+coverage/
+.sites-runtime/

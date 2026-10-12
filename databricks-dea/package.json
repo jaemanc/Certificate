@@ -1,0 +1,9 @@
+{
+  "name": "databricks-dea-practice",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Databricks Data Engineer Associate 한국어 학습 및 모의고사",
+  "scripts": { "start": "node server.mjs", "dev": "node server.mjs", "test": "node --test tests/*.test.mjs" },
+  "engines": { "node": ">=20" }
+}
